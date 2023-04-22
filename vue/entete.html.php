@@ -3,7 +3,9 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <title>hello</title>
-        <link rel="stylesheet" href="../style.css" type="text/css" media="screen"/>
+        <style type="text/css">
+            @import url("css/hello.css");
+        </style>
         <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     </head>
     <body>
