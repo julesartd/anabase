@@ -34,7 +34,7 @@ class Modele_anabase
 	}
 
 
-	// COUCOU C NOAH
+
 
 	//Inserer une nouvelle session 
 	function addsession($num, $date, $heure, $prix, $nom)
